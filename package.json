@@ -1,0 +1,28 @@
+{
+  "name": "hx-jest-steps",
+  "version": "1.0.0",
+  "description": "Задание из курса \"JS: Автоматическое тестирование\" (hexlet.io)",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorivanovspb/hx-jest-steps.git"
+  },
+  "keywords": [
+    "jest"
+  ],
+  "author": "Victor I.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorivanovspb/hx-jest-steps/issues"
+  },
+  "homepage": "https://github.com/victorivanovspb/hx-jest-steps#readme",
+  "devDependencies": {
+    "@babel/core": "^7.6.2",
+    "@babel/preset-env": "^7.6.2",
+    "babel-jest": "^24.9.0",
+    "jest": "^24.9.0"
+  }
+}
