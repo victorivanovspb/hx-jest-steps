@@ -1,2 +1,6 @@
-language: javascript
-script: npm test
+language: node_js
+node_js: 10
+install:
+	- npm install
+script:
+	- npm test
